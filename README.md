@@ -20,7 +20,7 @@ pip install pandas numpy scikit-learn
 
 ## Dataset
 
-The script expects a CSV file containing the data for analysis. The path to this file is hardcoded as `'E:/file/blocks.csv'`. Ensure you have the dataset at this location or modify the path in the script accordingly.
+The script expects a CSV file containing the data for analysis. The path to this file is hardcoded as `'blocks.csv'`. Ensure you have the dataset at this location or modify the path in the script accordingly.
 
 ## Features
 
