@@ -31,5 +31,5 @@ The script expects a CSV file containing the data for analysis. The path to this
 
 ## Output
 
-The script will print the initial data exploration results, including the first three rows, dataset shape, information, descriptive statistics, missing values, and the distribution of classes in the response variable. After preprocessing the data and evaluating the models, it will output the maximum accuracy achieved by each model, thereby providing insight into which classification method is most effective for the dataset in question.
+The script will print the initial data exploration results, descriptive statistics, missing values, and the distribution of classes in the response variable. After preprocessing the data and evaluating the models, it will output the maximum accuracy achieved by each model, thereby providing insight into which classification method is most effective for the dataset in question.
 
