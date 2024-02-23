@@ -12,7 +12,7 @@ pd.set_option('display.width', desired_width)
 np.set_printoptions(linewidth=desired_width)
 pd.set_option('display.max_columns',15)
 
-df=pd.read_csv('E:/file/blocks.csv')
+df=pd.read_csv('blocks.csv')
 
 print(df.head(3))
 print(df.shape)
